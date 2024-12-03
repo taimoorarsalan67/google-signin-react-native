@@ -8,6 +8,8 @@
 
 [website sources live here](https://github.com/react-native-google-signin/docs/tree/main/docs)
 
+# New Development will be started from today
+
 ## Licence
 
 (MIT)
